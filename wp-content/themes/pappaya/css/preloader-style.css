@@ -1,0 +1,31 @@
+/**
+ *  pappaya Preloader style
+ *
+ * @package WordPress
+ * @subpackage pappaya
+ * @since pappaya 1.0
+ * Author:	layero.com
+ *
+ *	This style sheet will included only if the preloader option in customizer enabled
+ */
+
+.preloader-wrap  {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #e5eff1;
+	height: 100%;
+	width: 100%;
+	z-index: 999999999;
+}
+.preloader-contents {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	height: 64px;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}

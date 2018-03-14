@@ -1,0 +1,2988 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-30 17:46+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:18 functions.php:1332 functions.php:1407
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Error 404 - page not found"
+msgstr ""
+
+#: 404.php:20
+msgid "Sorry! page is no longer there"
+msgstr ""
+
+#: archive-fw-portfolio.php:40 taxonomy-fw-portfolio-category.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/views/view.php:75
+msgid "Portfolio Image"
+msgstr ""
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: content-none.php:16
+msgid "Sorry"
+msgstr ""
+
+#: content-none.php:17
+msgid "but nothing matched your search terms."
+msgstr ""
+
+#: content-none.php:18
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: content-single.php:41 single-fw-portfolio.php:71
+msgid "Categories: "
+msgstr ""
+
+#: content.php:26
+msgid "Featured post"
+msgstr ""
+
+#: functions.php:27
+msgid "Blog Right Widget Area"
+msgstr ""
+
+#: functions.php:29
+msgid "Appears in the Right sidebar of the Blog pages."
+msgstr ""
+
+#: functions.php:36
+msgid "Blog Left Widget Area"
+msgstr ""
+
+#: functions.php:38
+msgid "Appears in the Left sidebar of the Blog pages."
+msgstr ""
+
+#: functions.php:45
+msgid "Shop Right Widget Area"
+msgstr ""
+
+#: functions.php:47
+msgid "Appears in the Right sidebar for Product pages."
+msgstr ""
+
+#: functions.php:54
+msgid "Shop Left Widget Area"
+msgstr ""
+
+#: functions.php:56
+msgid "Appears in the Left sidebar for Product pages."
+msgstr ""
+
+#: functions.php:63
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer sidebar 1"
+msgstr ""
+
+#: functions.php:72
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:74
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:83
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:90
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:92
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:960
+msgid "Read more"
+msgstr ""
+
+#: functions.php:986
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:1025
+msgid "First"
+msgstr ""
+
+#: functions.php:1027
+msgid "Previous"
+msgstr ""
+
+#: functions.php:1036
+msgid "Next"
+msgstr ""
+
+#: functions.php:1038
+msgid "Last"
+msgstr ""
+
+#: functions.php:1045
+msgid "Previous Entries"
+msgstr ""
+
+#: functions.php:1046
+msgid "Next Entries"
+msgstr ""
+
+#: functions.php:1133
+msgid "Table Styling"
+msgstr ""
+
+#: functions.php:1134
+msgid "Choose the table styling options"
+msgstr ""
+
+#: functions.php:1136
+msgid "Use the table as a pricing table"
+msgstr ""
+
+#: functions.php:1137
+msgid "Use the table to display tabular data"
+msgstr ""
+
+#: functions.php:1153
+msgid "Table Styling Class"
+msgstr ""
+
+#: functions.php:1167
+msgid "Default column"
+msgstr ""
+
+#: functions.php:1168
+msgid "Description column"
+msgstr ""
+
+#: functions.php:1169
+msgid "Highlight column"
+msgstr ""
+
+#: functions.php:1170
+msgid "Primary Color column"
+msgstr ""
+
+#: functions.php:1171
+msgid "Secondary Color column"
+msgstr ""
+
+#: functions.php:1172
+msgid "Custom Color 1 column"
+msgstr ""
+
+#: functions.php:1173
+msgid "Custom Color 2 column"
+msgstr ""
+
+#: functions.php:1174
+msgid "Custom Color 3 column"
+msgstr ""
+
+#: functions.php:1175
+msgid "Custom Color 4 column"
+msgstr ""
+
+#: functions.php:1202
+msgid " sends you a contact message"
+msgstr ""
+
+#: functions.php:1203
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:24
+#: woocommerce/single-product-reviews.php:66
+msgid "Name"
+msgstr ""
+
+#: functions.php:1203
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:73
+#: includes/widgets/widget-contact-us.php:58
+#: woocommerce/single-product-reviews.php:68
+msgid "Email"
+msgstr ""
+
+#: functions.php:1203
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:7
+msgid "Message"
+msgstr ""
+
+#: functions.php:1217
+msgid "Contact Form Submitted Successfully"
+msgstr ""
+
+#: functions.php:1223
+msgid "Please set your Admin Email"
+msgstr ""
+
+#: functions.php:1266 functions.php:1348
+msgid "Home"
+msgstr ""
+
+#: functions.php:1281 functions.php:1363
+msgid "search results "
+msgstr ""
+
+#: functions.php:1323 functions.php:1402
+msgid "Blog Archives"
+msgstr ""
+
+#: functions.php:1579
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:1586
+msgid "Layero Woocommerce Color Filter"
+msgstr ""
+
+#: functions.php:1594
+msgid "Unyson"
+msgstr ""
+
+#: functions.php:1599
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:1604
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:1609
+msgid "Kirki"
+msgstr ""
+
+#: functions.php:1692
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:1692
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1836
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them.\n"
+"            You can also navigate to different pages on your site to preview "
+"them.\n"
+"            You can publish the changes using \"Save & Publish\" button on "
+"customizer top portion(Appears only after making any change using "
+"customizer)."
+msgstr ""
+
+#: header.php:21
+msgid "JavaScript seem to be disabled in your browser."
+msgstr ""
+
+#: header.php:22
+msgid ""
+"You must have JavaScript enabled in your browser to utilize the "
+"functionality of this website."
+msgstr ""
+
+#: header.php:109
+msgid "Just type and press 'enter'"
+msgstr ""
+
+#: header.php:112
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: header.php:113
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: header.php:114
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: header.php:157
+msgid "Page : "
+msgstr ""
+
+#: header.php:162 header.php:176 header.php:190
+msgid "Blog"
+msgstr ""
+
+#: header.php:164
+msgid "Latest Posts"
+msgstr ""
+
+#: header.php:179
+msgid "Search Results : \" "
+msgstr ""
+
+#: header.php:205
+msgid "Products"
+msgstr ""
+
+#: header.php:209
+msgid "Products Category"
+msgstr ""
+
+#: header.php:214
+msgid "404 - page not found"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: single-fw-portfolio.php:40 single-fw-portfolio.php:51
+msgid "slider images"
+msgstr ""
+
+#: single-fw-portfolio.php:99
+msgid "Prev project"
+msgstr ""
+
+#: single-fw-portfolio.php:104
+msgid "Next Project"
+msgstr ""
+
+#: single.php:57
+msgid "Previous post"
+msgstr ""
+
+#: single.php:62
+msgid "Next post"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:393
+#: admin/class-tgm-plugin-activation.php:923
+#: admin/class-tgm-plugin-activation.php:2629
+#: admin/class-tgm-plugin-activation.php:3676
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:394
+#: admin/class-tgm-plugin-activation.php:3255
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:395
+#: admin/class-tgm-plugin-activation.php:3048
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1030
+#: admin/class-tgm-plugin-activation.php:1033
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1033
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1217
+#: admin/class-tgm-plugin-activation.php:3044
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2369
+msgid "Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2372
+msgid "Recommended"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2388
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2391
+msgid "External Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2394
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2411
+msgid "Not Installed"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2415
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2417
+msgid "Active"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2423
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2426
+msgid "Requires Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2429
+msgid "Update recommended"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2438
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2484
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2578
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2586
+msgid "Installed version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2594
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2606
+msgid "Available version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2629
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2643
+msgid "Plugin"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2644
+msgid "Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2645
+msgid "Type"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2649
+msgid "Version"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2650
+msgid "Status"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2710
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2780
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2813
+msgid "Install"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2819
+msgid "Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2822
+msgid "Activate"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2855
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2898
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3004
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3030
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3254
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3603
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3605
+#: admin/class-tgm-plugin-activation.php:3613
+msgid "Show Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3605
+#: admin/class-tgm-plugin-activation.php:3613
+msgid "Hide Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3606
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3611
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3614
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3616
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-content/pappaya_demo_content/manifest.php:7
+msgid "Pappaya Theme Demo"
+msgstr ""
+
+#: framework-customizations/extensions/feedback/views/reviews.php:25
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/extensions/feedback/views/reviews.php:32
+#: framework-customizations/extensions/feedback/views/reviews.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: framework-customizations/extensions/feedback/views/reviews.php:35
+#: framework-customizations/extensions/feedback/views/reviews.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: framework-customizations/extensions/feedback/views/reviews.php:36
+#: framework-customizations/extensions/feedback/views/reviews.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: framework-customizations/extensions/feedback/views/reviews.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:17
+msgid "Tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:9
+msgid "Add/Edit Tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:19
+msgid "Create your tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:24
+#: includes/widgets/widget-contact-us.php:93
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:32
+msgid "Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:23
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:28
+msgid "Choose an Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:28
+msgid "Colored"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:32
+msgid "Expandable"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:7
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:17
+msgid "Button Label"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:18
+msgid "This is the text that appears on your button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:23
+msgid "Button Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:24
+msgid "Where should your button link to"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:38
+msgid "Open Link in New Window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:31
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:39
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:19
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:84
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:23
+msgid "No"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:59
+msgid "Button Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:33
+msgid "Choose a color for your button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:36
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:31
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:20
+msgid "Primary"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:21
+msgid "Secondary"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:38
+msgid "White"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:70
+msgid "Light"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:71
+msgid "Gray"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:41
+msgid "Dark"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:45
+msgid "Button type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:46
+msgid "Choose a button type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:47
+msgid "Flat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:50
+msgid "Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:9
+msgid "This can be left blank"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:14
+msgid "Enter some content for this Info Box"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:15
+msgid "Background Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:43
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:16
+msgid "Please select the background color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:45
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:43
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:20
+msgid "Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:44
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:21
+msgid "Please select the text color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:25
+msgid "Background Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:26
+msgid "Please select the background image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:60
+msgid "Please select the button color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:8
+msgid "Text align"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:10
+msgid "left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:11
+msgid "center"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:12
+msgid "right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:33
+msgid "Enable Column Padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:34
+msgid ""
+"Use <a target=\"_blank\" href=\"http://www.w3schools.com/css/css_padding.asp"
+"\">shorthand padding</a>."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:38
+msgid "Align contents to vertically center"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:42
+msgid "Minimum height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:73
+msgid "Edit"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:74
+msgid "Duplicate"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:75
+msgid "Remove"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:76
+msgid "Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:117
+msgid "Layout Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:120
+#, php-format
+msgid "Add a %s column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:13
+msgid "Ruler Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:14
+msgid "Here you can set the styling and size of the HR element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:16
+msgid "Line"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:17
+msgid "Line with Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:18
+msgid "Line with Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:19
+msgid "Whitespace"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:26
+msgid "Line Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:27
+msgid "Seclect the Color for line"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:67
+msgid "Default"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:40
+msgid "Text Used"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:41
+msgid "Enter text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:46
+msgid "Seclect the Color for Text & line"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:44
+msgid "Icon Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:64
+msgid "Seclect the Color for Icon & line"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:77
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:47
+msgid "Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/divider/options.php:78
+msgid ""
+"How much whitespace do you need? Enter a pixel value. Positive value will "
+"increase the whitespace, negative value will reduce it. eg: '50', '-25', "
+"'200'"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:54
+msgid "Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:13
+msgid "Icon title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:29
+msgid "Icon size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:31
+msgid "Large"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:32
+msgid "Medium"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:25
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:37
+msgid "Icon type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:40
+msgid "Raised"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:45
+msgid "Please select the icon color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:50
+msgid "Please select the icon background color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:8
+msgid "Box Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:10
+msgid "Icon above title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:11
+msgid "Icon in line with title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:20
+msgid "Title of the Box"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php:25
+msgid "Enter the desired content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:17
+msgid "Population Method"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:18
+msgid "Select map population method (Ex: events, custom)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:28
+msgid "Google Maps API Key"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:30
+#, php-format
+msgid "Create an application in %sGoogle Console%s and add the Key here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:49
+msgid "Map Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:50
+msgid "Select map type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:52
+msgid "Roadmap"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:53
+msgid "Terrain"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:54
+msgid "Satellite"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:55
+msgid "Hybrid"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:59
+msgid "Map Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:60
+msgid "Set map height (Ex: 300)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:66
+msgid "Disable zoom on scroll"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:67
+msgid "Prevent the map from zooming when scrolling until clicking on the map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:79
+msgid "Use as a Full-width map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:80
+msgid "Remove left and right padding by selecting this"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:19
+msgid "Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:7
+msgid "Add an Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:8
+msgid "Media Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:8
+msgid "Choose Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:20
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:41
+msgid "Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:42
+msgid "Set image width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:23
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:48
+msgid "Set image height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:33
+msgid "Image Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:34
+msgid "Where should your image link to?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/notification/views/view.php:9
+msgid "Congratulations!"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/notification/views/view.php:13
+msgid "Information!"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/notification/views/view.php:17
+msgid "Alert!"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/notification/views/view.php:21
+msgid "Error!"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/config.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/config.php:5
+msgid "pappaya Bar Chart"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/config.php:6
+msgid "Theme Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:9
+msgid "Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:6
+msgid "Barchart Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:10
+msgid "Count"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:11
+msgid "Barchart percentage count"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:14
+msgid "Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-bar-chart/options.php:15
+msgid "Please select the color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/config.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/config.php:5
+msgid "pappaya clients"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:4
+msgid "Slider Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:19
+msgid "Client Images"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:20
+msgid "Add/Edit Client Images"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:21
+msgid "Here you can add, remove and edit your Images for Client Image Slider."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:26
+msgid "Client Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:31
+msgid "Client Image alt text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-clients/options.php:32
+msgid ""
+"Enter the alternalte text(alt attribute of img tag ) for Client Image here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/config.php:4
+msgid "pappaya Contact and Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/config.php:5
+msgid "It uses options from customizer footer settings."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/options.php:6
+msgid "Contact Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/options.php:7
+msgid ""
+"This will be the title of contact section. \n"
+"\t\t\t\t\t\t\tContact details will be taken from Customizer Contact section "
+"and \n"
+"\t\t\t\t\t\t\tother details from Customizer Footer Settings."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:45
+msgid "Send Message"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:60
+#: includes/widgets/widget-contact-us.php:46
+msgid "Phone"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-contact-and-map/views/view.php:86
+#: includes/widgets/widget-contact-us.php:70
+msgid "Address"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/config.php:4
+msgid "pappaya Counter"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/config.php:5
+msgid "pappaya Counter/Icon Box"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:4
+msgid "Count to gadget"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:13
+msgid "Title Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:26
+msgid "Sub title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:35
+msgid "Gadget Section Count"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:49
+msgid "Add padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-counter/options.php:50
+msgid "Gadget padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/config.php:4
+msgid "pappaya Features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/config.php:5
+msgid "pappaya Features Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:5
+msgid "Features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:6
+msgid "Add/Edit Features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:7
+msgid "Here you can add, remove and edit your Features for Features Listing."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:12
+msgid "Feature Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:13
+msgid "Enter the feature heading here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/views/view.php:10
+msgid "Feature Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-features/options.php:23
+msgid "Enter the Content for the feature"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/config.php:4
+msgid "pappaya Image Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/config.php:5
+msgid "pappaya Image Gallery Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:5
+msgid "Select the slider type here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:8
+msgid "Show arrows always"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:9
+msgid "Show arrows on hover"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:10
+msgid "Hide arrows"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:11
+msgid "Dots navigation"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:12
+msgid "Slider with thumbnail"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:16
+msgid "Repeat Slider Loop"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:26
+msgid "Select Image Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:27
+msgid ""
+"Select \"Default\" for uploaded image size and \"Custom\" for custom size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:29
+msgid "Default (uploaded image itself)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:30
+msgid "Custom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:27
+msgid "Slider Images"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:28
+msgid "Add/Edit Slider Images"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:29
+msgid "Here you can add, remove and edit your Images for Image Slider."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:34
+msgid "Slider Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:69
+msgid "Slider Image alt text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-image-slider/options.php:70
+msgid ""
+"Enter the alternalte text(alt attribute of img tag) for Gallery Image here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/config.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/config.php:5
+msgid "pappaya Message Box"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:8
+msgid "Enter message text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:12
+msgid "Message Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:13
+msgid "Seclect the Message Type."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:16
+msgid "Sucess"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:17
+msgid "Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:18
+msgid "Warning"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:19
+msgid "Danger"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:22
+msgid "Custom-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:23
+msgid "Custom-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:46
+msgid "Card Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:28
+msgid "Seclect the Card / Flat Style."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:31
+msgid "Flat Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:43
+msgid "Message Box Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:44
+msgid "Here you can select the basic classification for Message Box."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:46
+msgid "Without Close Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:47
+msgid "With Close Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-message-box/options.php:55
+msgid "Select Required Icon."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/config.php:4
+msgid "pappaya Portfolio"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/config.php:5
+msgid "pappaya Portfolio-Gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:5
+msgid "Maximum Number of Projects"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:6
+msgid ""
+"Enter the Number. \n"
+"\t\t\t\t\t\tFeatured image(if not,take the first gallery image) for each "
+"project(Unyson Portfolio) will shows in the gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:11
+msgid "View More Projects Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:12
+msgid ""
+"Enter the View More Projects Link. \n"
+"\t\t\t\t\t\tMake this field blank to remove that link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:17
+msgid "View More Projects Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/options.php:18
+msgid "Enter the View More Projects Text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/views/view.php:93
+msgid "View More Projects"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-portfolio/views/view.php:99
+msgid ""
+"Add Projects (Portfolio) with Categories to work Project Gallery Properly"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/config.php:4
+msgid "pappaya Slider (shortcode)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/config.php:5
+msgid "pappaya Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:6
+msgid "Select the rev slider to insert"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:6
+msgid "You have not set any slider!"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:11
+msgid "Rev-Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:17
+msgid "Slider ShortCode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:18
+msgid "Enter the Slider ShortCode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:22
+msgid "Use Slider ShortCode instead of Rev Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-slider/options.php:23
+msgid ""
+"If checked, Slider shortcode get more priority than Rev Slider.(Unchecked "
+"means priority for Rev slider)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/config.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/config.php:5
+msgid "pappaya Team Members"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:39
+msgid "Slide Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:40
+msgid ""
+"Enter the Slide Title(for example, Team Member \"Name\" if the slider used "
+"for team members)."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:44
+msgid "Slide Sub-Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:45
+msgid ""
+"Enter the Slide Sub-Title(for example, Team Member \"Position\" if the "
+"slider used for team members)."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:49
+msgid "Slide Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:50
+msgid "Enter the Slide Content text block."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:54
+msgid "Slide Facebook"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:55
+msgid "Enter the Slide Facebook Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:59
+msgid "Slide Twitter"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:60
+msgid "Enter the Slide Twitter Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:64
+msgid "Slide Linkedin"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:65
+msgid "Enter the Slide Linkedin Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:69
+msgid "Slide Pinterest"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:70
+msgid "Enter the Slide Pinterest Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:74
+msgid "Slide Google-Plus"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:75
+msgid "Enter the Slide Google-Plus Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:79
+msgid "Slide Youtube"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-team-members/options.php:80
+msgid "Enter the Slide Youtube Link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/config.php:4
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/config.php:5
+msgid "pappaya Timeline"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:4
+msgid "Timelines"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:5
+msgid "Add/Edit Timelines"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:6
+msgid "Here you can add, remove and edit your Timeline Slider."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:11
+msgid "Timeline Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:12
+msgid ""
+"Enter Your Timeline Title. (For example, enter \"2016\" for 2016 time line - "
+"this will show up similar to an icon in front end.)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:16
+msgid "Timeline Content Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:17
+msgid "Enter Your Timeline Content Title."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:21
+msgid "Timeline Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pappaya-timeline/options.php:22
+msgid "Enter the Timeline Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:7
+msgid "Full Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:11
+msgid "Remove Padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:32
+msgid "Background Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:33
+msgid "Insert Video URL to embed this video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:8
+msgid "Tab Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:18
+msgid "Add/Edit Tab"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:7
+msgid "Team Member Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:8
+msgid "Name of the person"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:13
+msgid "Team Member Job Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:14
+msgid "Job title of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:19
+msgid "Team Member Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:24
+msgid "Team Member Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:25
+msgid "Enter a few words that describe the person"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:31
+msgid "Select color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:32
+msgid "Here you can set the color of the Team Member"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:34
+msgid "Primary Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:35
+msgid "Secondary Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:36
+msgid "Custom color-1 Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:37
+msgid "Custom color-2 Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:38
+msgid "Custom color-3 Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:39
+msgid "Custom color-4 (Light) Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:44
+msgid "Team Member Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:45
+msgid "Here you can set the styling of the Team Member"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:48
+msgid "Card"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:52
+msgid "Facebook Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:53
+msgid "Facebook Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:58
+msgid "Twitter Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:59
+msgid "Twitter Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:64
+msgid "Linkedin Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:65
+msgid "Linkedin Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:70
+msgid "Pinterest Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:71
+msgid "Pinterest Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:76
+msgid "Google-plus Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:77
+msgid "Google-plus Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:82
+msgid "Youtube Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:83
+msgid "Youtube Link of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:7
+msgid "Testimonials"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:8
+msgid "Add/Edit Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:9
+msgid "Here you can add, remove and edit your Testimonials."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:14
+msgid "Quote"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:15
+msgid "Enter the testimonial here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:25
+msgid "Enter the Name of the Person to quote"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:29
+msgid "Position"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:30
+msgid "Can be used for a job description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:34
+msgid "Website Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:35
+msgid "Linktext for the above Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:39
+msgid "Website Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:40
+msgid "Link to the Persons website"
+msgstr ""
+
+#: framework-customizations/theme/options/page-box.php:7
+#: framework-customizations/theme/options/posts/page.php:7
+msgid "Page Options"
+msgstr ""
+
+#: framework-customizations/theme/options/page-options.php:6
+#: framework-customizations/theme/options/page-options.php:8
+msgid "Page Header Title"
+msgstr ""
+
+#: framework-customizations/theme/options/page-options.php:11
+msgid "Hide Page Title"
+msgstr ""
+
+#: framework-customizations/theme/options/page-options.php:13
+msgid "Hide Page Title.(The main page title, At top of middle area)"
+msgstr ""
+
+#: framework-customizations/theme/options/page-options.php:22
+msgid "Header overlay"
+msgstr ""
+
+#: framework-customizations/theme/options/page-options.php:24
+msgid ""
+"Enable Header overlay \n"
+"\t\t\t\t\t(Normally we use this option with - page builder \"section\" and "
+"its option \"Remove top and bottom padding\" as checked,    \n"
+"\t\t\t\t\tsection backgeround or image,slider etc.. element inside this "
+"section - as the first page element.\n"
+"\t\t\t\t    Then the Header Lay above the first page element, also it "
+"removes Header bottom section.)"
+msgstr ""
+
+#: includes/customizer.php:49
+msgid "General Settings"
+msgstr ""
+
+#: includes/customizer.php:51
+msgid "This panel contains the controls logo, boxed lay out, preloader etc."
+msgstr ""
+
+#: includes/customizer.php:61
+msgid "Theme Logo"
+msgstr ""
+
+#: includes/customizer.php:67
+msgid "Change theme logo"
+msgstr ""
+
+#: includes/customizer.php:87
+msgid "Please Upload theme logo"
+msgstr ""
+
+#: includes/customizer.php:105
+msgid "Favicon"
+msgstr ""
+
+#: includes/customizer.php:111
+msgid "Change Favicon"
+msgstr ""
+
+#: includes/customizer.php:115
+msgid "pappaya_site_icon"
+msgstr ""
+
+#: includes/customizer.php:125
+msgid "Retina Images"
+msgstr ""
+
+#: includes/customizer.php:131 includes/customizer.php:738
+msgid "Enable Retina Images"
+msgstr ""
+
+#: includes/customizer.php:141
+msgid "Pre Loader"
+msgstr ""
+
+#: includes/customizer.php:147 includes/customizer.php:776
+msgid "Enable Pre Loader"
+msgstr ""
+
+#: includes/customizer.php:157
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/customizer.php:163 includes/customizer.php:814
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: includes/customizer.php:172 includes/customizer.php:851
+msgid "Hide Sub Header"
+msgstr ""
+
+#: includes/customizer.php:178
+msgid "Hide Sub-Header"
+msgstr ""
+
+#: includes/customizer.php:188 includes/customizer.php:214
+msgid "Google-map API Key"
+msgstr ""
+
+#: includes/customizer.php:194 includes/customizer.php:216
+msgid "Enter Google-map API Key for the site"
+msgstr ""
+
+#: includes/customizer.php:305
+msgid "Typography"
+msgstr ""
+
+#: includes/customizer.php:307
+msgid "This panel contains site typography & text-color settings"
+msgstr ""
+
+#: includes/customizer.php:319
+msgid "Contact and Map"
+msgstr ""
+
+#: includes/customizer.php:323
+msgid ""
+"This panel contains the controls of Contact informations for \"Pappaya "
+"Contact and Map\" shortcode"
+msgstr ""
+
+#: includes/customizer.php:345
+msgid ""
+"Choose the background for your Contact form in \"Pappaya Contact and Map\" "
+"shortcode."
+msgstr ""
+
+#: includes/customizer.php:379
+msgid ""
+"Choose the image for your Contact form Phone-number in \"Pappaya Contact and "
+"Map\" shortcode"
+msgstr ""
+
+#: includes/customizer.php:411
+msgid ""
+"Choose the image for your Contact form Email-Id in \"Pappaya Contact and Map"
+"\" shortcode"
+msgstr ""
+
+#: includes/customizer.php:443
+msgid ""
+"Choose the image for your Contact form Address in \"Pappaya Contact and Map"
+"\" shortcode."
+msgstr ""
+
+#: includes/customizer.php:476
+msgid ""
+"Choose the image for your Contact form Phone-number in \"Pappaya Contact "
+"Address\" widget (footer contact)."
+msgstr ""
+
+#: includes/customizer.php:508
+msgid ""
+"Choose the image for your Contact form Email-Id in \"Pappaya Contact Address"
+"\" widget (footer contact)."
+msgstr ""
+
+#: includes/customizer.php:540
+msgid ""
+"Choose the image for your Contact form Address in \"Pappaya Contact Address"
+"\" widget (footer contact)."
+msgstr ""
+
+#: includes/customizer.php:566
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/customizer.php:570
+msgid ""
+"This panel contains the controls of Copyright text, Footer background and "
+"footer logo"
+msgstr ""
+
+#: includes/customizer.php:578
+msgid "Footer Top Settings"
+msgstr ""
+
+#: includes/customizer.php:584
+msgid ""
+"This Section contains the controls of Footer-Top(widget area) background and "
+"color"
+msgstr ""
+
+#: includes/customizer.php:608
+msgid "Choose the background for your footer-Top"
+msgstr ""
+
+#: includes/customizer.php:610
+msgid ""
+"If you choose to use an image then please use a blurry image so that it does "
+"not distract users from the widgets you have on your footer."
+msgstr ""
+
+#: includes/customizer.php:666
+msgid "Footer Bottom Settings"
+msgstr ""
+
+#: includes/customizer.php:672
+msgid ""
+"This Section contains the controls of Copyright text, Footer background and "
+"footer logo"
+msgstr ""
+
+#: includes/customizer.php:696
+msgid "Choose the footer small logo "
+msgstr ""
+
+#: includes/customizer.php:740
+msgid ""
+"Switch \"On\" to enable retina display for your theme. Additional retina "
+"images for each image size will be formed in the uploads folder"
+msgstr ""
+
+#: includes/customizer.php:750 includes/customizer.php:788
+#: includes/customizer.php:826 includes/customizer.php:863
+msgid "On"
+msgstr ""
+
+#: includes/customizer.php:752 includes/customizer.php:790
+#: includes/customizer.php:828 includes/customizer.php:865
+msgid "Off"
+msgstr ""
+
+#: includes/customizer.php:778
+msgid "Select to Preloader for the theme"
+msgstr ""
+
+#: includes/customizer.php:816
+msgid "Select to Sticky Header for the theme"
+msgstr ""
+
+#: includes/customizer.php:853
+msgid ""
+"Hide Sub-Header (The section just below menu contains Page Title & "
+"Breadcrumb)"
+msgstr ""
+
+#: includes/customizer.php:877
+msgid "Layout"
+msgstr ""
+
+#: includes/customizer.php:885
+msgid "Blog and Shop section Layout Settings"
+msgstr ""
+
+#: includes/customizer.php:905
+msgid "Blog page Layout"
+msgstr ""
+
+#: includes/customizer.php:907
+msgid "Select Blog page Layout (Fullwidth,Left,Right,Both)"
+msgstr ""
+
+#: includes/customizer.php:945
+msgid "Shop page Layout"
+msgstr ""
+
+#: includes/customizer.php:947
+msgid "Select Shop page Layout (Fullwidth,Left,Right)"
+msgstr ""
+
+#: includes/customizer.php:981
+msgid "Theme Primary color"
+msgstr ""
+
+#: includes/customizer.php:983
+msgid "From this panel you control the theme primary color"
+msgstr ""
+
+#: includes/customizer.php:1329
+msgid "Theme Secondary color"
+msgstr ""
+
+#: includes/customizer.php:1331
+msgid "From this panel you control the theme secondary color"
+msgstr ""
+
+#: includes/customizer.php:1481
+msgid "Custom color 1"
+msgstr ""
+
+#: includes/customizer.php:1483
+msgid "From this panel you control the theme custom color 1."
+msgstr ""
+
+#: includes/customizer.php:1539
+msgid "Custom color 2"
+msgstr ""
+
+#: includes/customizer.php:1541
+msgid "From this panel you control the theme custom color 2."
+msgstr ""
+
+#: includes/customizer.php:1587
+msgid "Custom color 3"
+msgstr ""
+
+#: includes/customizer.php:1589
+msgid "From this panel you control the theme custom color 3."
+msgstr ""
+
+#: includes/customizer.php:1633
+msgid "Custom color 4"
+msgstr ""
+
+#: includes/customizer.php:1635
+msgid "From this panel you control the theme custom color 4."
+msgstr ""
+
+#: includes/customizer.php:1699 includes/customizer.php:1717
+msgid "Heading Typography"
+msgstr ""
+
+#: includes/customizer.php:1707
+msgid "Heading Typography Settings"
+msgstr ""
+
+#: includes/customizer.php:1719
+msgid "Select the main typography options for your site headings."
+msgstr ""
+
+#: includes/customizer.php:1721
+msgid ""
+"The typography options you set here apply to all heading tags(h1,h2,...,h6). "
+"Font size is options for each tag can set from the below section. Font "
+"weight for h6 is normally lesser than other headings so we gave an option "
+"for that too."
+msgstr ""
+
+#: includes/customizer.php:1979
+msgid "Choose h1  size"
+msgstr ""
+
+#: includes/customizer.php:2033
+msgid "Choose h2  size"
+msgstr ""
+
+#: includes/customizer.php:2087
+msgid "Choose h3  size"
+msgstr ""
+
+#: includes/customizer.php:2141
+msgid "Choose h4  size"
+msgstr ""
+
+#: includes/customizer.php:2195
+msgid "Choose h5  size"
+msgstr ""
+
+#: includes/customizer.php:2249
+msgid "Choose h6  size"
+msgstr ""
+
+#: includes/customizer.php:2303
+msgid "Choose h6  font-weight"
+msgstr ""
+
+#: includes/customizer.php:2305
+msgid "Choose Font weight for h6 (it is normally lesser than other headings)."
+msgstr ""
+
+#: includes/customizer.php:2357
+msgid "Body Typography"
+msgstr ""
+
+#: includes/customizer.php:2365
+msgid "Body Typography Settings"
+msgstr ""
+
+#: includes/customizer.php:2375
+msgid "Boady Typography"
+msgstr ""
+
+#: includes/customizer.php:2377
+msgid "Select the main typography options for your site content."
+msgstr ""
+
+#: includes/customizer.php:2467
+msgid "Contact Details"
+msgstr ""
+
+#: includes/customizer.php:2473
+msgid "Contact informations"
+msgstr ""
+
+#: includes/customizer.php:2495
+msgid "Contact Phone"
+msgstr ""
+
+#: includes/customizer.php:2497
+msgid ""
+"Enter your Contact Phone-number for \"Pappaya Contact and Map\" shortcode."
+msgstr ""
+
+#: includes/customizer.php:2524
+msgid "Contact Email"
+msgstr ""
+
+#: includes/customizer.php:2526
+msgid "Enter your Contact Email-Id for \"Pappaya Contact and Map\" shortcode."
+msgstr ""
+
+#: includes/customizer.php:2553 includes/widgets/widget-contact-us.php:21
+#: includes/widgets/widget-contact-us.php:90
+msgid "Contact Address"
+msgstr ""
+
+#: includes/customizer.php:2555
+msgid "Enter your Contact Address for \"Pappaya Contact and Map\" shortcode."
+msgstr ""
+
+#: includes/customizer.php:2582
+msgid "From Email"
+msgstr ""
+
+#: includes/customizer.php:2584
+msgid ""
+"Enter your From Email-Id. (When the user send a message, an email with "
+"details send to admin email. Its From email will be this one.)"
+msgstr ""
+
+#: includes/customizer.php:2603
+msgid "Map coordinates"
+msgstr ""
+
+#: includes/customizer.php:2609
+msgid "Google Map coordinates for \"Pappaya Contact and Map\" shortcode."
+msgstr ""
+
+#: includes/customizer.php:2629
+msgid "Google map Latitude"
+msgstr ""
+
+#: includes/customizer.php:2631
+msgid "Enter your Google map Latitude Text here"
+msgstr ""
+
+#: includes/customizer.php:2633
+msgid ""
+"On clicking on your location in google map, it shows some details in which "
+"something like this \"10.013515,76.330498\" Latitude is the first number, In "
+"this example \"10.013515\" "
+msgstr ""
+
+#: includes/customizer.php:2660
+msgid "Google map Longitude"
+msgstr ""
+
+#: includes/customizer.php:2662
+msgid "Enter your Google map Longitude Text here"
+msgstr ""
+
+#: includes/customizer.php:2664
+msgid ""
+"On clicking on your location in google map, it shows some details in which "
+"something like this \"10.013515,76.330498\" Longitude is the second number, "
+"In this example \"76.330498\" "
+msgstr ""
+
+#: includes/customizer.php:2685
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/customizer.php:2689
+msgid "This panel contains the controls of custom css"
+msgstr ""
+
+#: includes/customizer.php:2710
+msgid "Custom Css"
+msgstr ""
+
+#: includes/customizer.php:2712
+msgid ""
+"This is a simple code control.Here is a CSS editor with the pappaya theme."
+msgstr ""
+
+#: includes/customizer.php:2714
+msgid "Custom Css for theme."
+msgstr ""
+
+#: includes/customizer.php:2751
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: includes/customizer.php:2753
+msgid ""
+"Background color will apply to footer-Top if there is no Background Image "
+"assigned."
+msgstr ""
+
+#: includes/customizer.php:2789
+msgid "Footer Top Heading Color"
+msgstr ""
+
+#: includes/customizer.php:2791
+msgid "Footer-Top Headings Text color."
+msgstr ""
+
+#: includes/customizer.php:2827
+msgid "Footer Top Text Color"
+msgstr ""
+
+#: includes/customizer.php:2829
+msgid "Footer-Top Text color."
+msgstr ""
+
+#: includes/customizer.php:2887
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/customizer.php:2889
+msgid "Facebook icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:2913
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/customizer.php:2915
+msgid "Twitter icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:2939
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/customizer.php:2941
+msgid "LinkedIn icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:2965
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/customizer.php:2967
+msgid "Youtube icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:2991
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/customizer.php:2993
+msgid "Google Plus icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:3017
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/customizer.php:3019
+msgid "Pinterest icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:3043
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/customizer.php:3045
+msgid "Instagram icon in \"pappaya social share widget\" points to this URL"
+msgstr ""
+
+#: includes/customizer.php:3071
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: includes/customizer.php:3073
+msgid "Enter your Footer Copyright Text here"
+msgstr ""
+
+#: includes/include-kirki.php:69
+msgid "Install Now"
+msgstr ""
+
+#: includes/include-kirki.php:75
+#, php-format
+msgid ""
+"The plugin is installed but not activated. Please <a href=\"%s\">activate "
+"it</a>."
+msgstr ""
+
+#: includes/include-kirki.php:94
+msgid ""
+"If you want to take full advantage of the options this theme has to provide, "
+"please install the Kirki plugin."
+msgstr ""
+
+#: includes/Walker_Comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: includes/Walker_Comments.php:50
+msgid "Author"
+msgstr ""
+
+#: includes/widgets/widget-contact-us.php:23
+msgid "Pappaya contact address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:51
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:119
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:45
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:55
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:41
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:67
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:55
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52
+#: woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:57
+#: woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:28
+msgid "Select"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:62
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:36
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:41
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:47
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""

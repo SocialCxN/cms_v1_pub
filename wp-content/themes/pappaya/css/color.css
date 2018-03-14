@@ -1,0 +1,35 @@
+/*
+ * pappaya Color
+ *
+ * @package WordPress
+ * @subpackage pappaya
+ * @since pappaya 1.0
+ * Author:  layero.com
+ *
+ */
+ 
+  /* ---------------------------------------------------------
+      Other Elements / Social colors
+  */
+  a.facebook:hover {color: #3b5998;}
+  a.twitter:hover {color: #02b0e8;}
+  a.linkedin:hover {color: #0077b6;}
+  a.pinterest:hover {color: #eb5655;}
+  a.google-plus:hover {color: #be2933;}
+  a.youtube:hover {color: #c4302a;}
+  a.instagram:hover {color: #bc2a8d;}
+
+  /* --- Inherited color --- */
+  .wn .highlight-col .fw-package .fw-pricing-row,
+  .wn .highlight-col .fw-package .fw-heading-row {color: inherit;}
+
+/* --- Star rating Color / Yellow --- */
+  .wn .star-rating,
+  .wn p.stars:hover a:before,
+  .wn p.stars.selected a:not(.active):before,
+  .wn p.stars.selected a.active:before {color: #f4b400;}
+  
+  .wn .rating .fa.fa-star.voted,
+  .wn .wrap-rating.in-post .rating:hover .fa.fa-star.over {color: #f4b400 !important;}
+
+  .wn table.shop_table td.product-remove a.remove:hover {color: #f00}

@@ -1,0 +1,1 @@
+Papaya is a multi-purpose suitable for building sites on a wide variety of niches including services, ecommerce, agency, marketing etc. Papaya follows material design.
